@@ -1,4 +1,5 @@
 x = 'shoruv'
+y = 1j
 
 def myname():
     # global x
@@ -7,3 +8,4 @@ def myname():
     
 myname()
 print("My name is " + x)
+print(type(y))
