@@ -1,3 +1,4 @@
-shoruv = "Tawsiat Ahammed Zinat"
+name = 589
 
-print(shoruv.split(" "))
+if name != str:
+    raise Exception("Please enter your name")
