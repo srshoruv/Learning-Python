@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="b67ca926-d9d1-4680-bca8-752877758958" name="Changes" comment="set up pycharm">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codeforcesAccount.py" beforeDir="false" afterPath="$PROJECT_DIR$/codeforcesAccount.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,25 +49,30 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.helloWorld.executor": "Run",
-    "Python.learningPython.executor": "Run",
-    "Python.myNumbers.executor": "Run",
-    "Python.numbers.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.codeforcesAccount.executor&quot;: &quot;Run&quot;,
+    &quot;Python.helloWorld.executor&quot;: &quot;Run&quot;,
+    &quot;Python.learningPython.executor&quot;: &quot;Run&quot;,
+    &quot;Python.myNumbers.executor&quot;: &quot;Run&quot;,
+    &quot;Python.numbers.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-f27c65a3e318-JavaScript-PY-251.23774.444" />
-        <option value="bundled-python-sdk-890ed5b35930-d9c5bdb153f4-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-251.23774.444" />
+        <option value="bundled-js-predefined-d6986cc7102b-6a121458b545-JavaScript-PY-251.25410.159" />
+        <option value="bundled-python-sdk-e0ed3721d81e-36ea0e71a18c-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-251.25410.159" />
       </set>
     </attachedChunks>
   </component>
@@ -79,6 +85,13 @@
       <option name="presentableId" value="Default" />
       <updated>1737962981720</updated>
       <workItem from="1746700800271" duration="55000" />
+      <workItem from="1747023531310" duration="7281000" />
+      <workItem from="1747547436837" duration="1622000" />
+      <workItem from="1747551379778" duration="1767000" />
+      <workItem from="1747718022877" duration="1496000" />
+      <workItem from="1747797023916" duration="1085000" />
+      <workItem from="1748317979799" duration="353000" />
+      <workItem from="1748333858615" duration="8446000" />
     </task>
     <task id="LOCAL-00001" summary="set up pycharm">
       <option name="closed" value="true" />
@@ -116,5 +129,9 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="set up pycharm" />
     <option name="LAST_COMMIT_MESSAGE" value="set up pycharm" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Learning_Python$learningPython.coverage" NAME="learningPython Coverage Results" MODIFIED="1747111575416" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Learning_Python$codeforcesAccount.coverage" NAME="codeforcesAccount Coverage Results" MODIFIED="1748403724396" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
