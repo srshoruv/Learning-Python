@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="b67ca926-d9d1-4680-bca8-752877758958" name="Changes" comment="set up pycharm">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeforcesAccount.py" beforeDir="false" afterPath="$PROJECT_DIR$/codeforcesAccount.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,6 +91,7 @@
       <workItem from="1747797023916" duration="1085000" />
       <workItem from="1748317979799" duration="353000" />
       <workItem from="1748333858615" duration="8446000" />
+      <workItem from="1748709460797" duration="447000" />
     </task>
     <task id="LOCAL-00001" summary="set up pycharm">
       <option name="closed" value="true" />
@@ -132,6 +132,6 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Learning_Python$learningPython.coverage" NAME="learningPython Coverage Results" MODIFIED="1747111575416" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Learning_Python$codeforcesAccount.coverage" NAME="codeforcesAccount Coverage Results" MODIFIED="1748403724396" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Learning_Python$codeforcesAccount.coverage" NAME="codeforcesAccount Coverage Results" MODIFIED="1748709488676" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
